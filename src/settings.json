@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Streamline collaboration, automate version control, and seamlessly manage your projects with the leading source code management tool.",
+        "title": "Master Your Code Workflow with Git"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Streamline collaboration, automate version control, and seamlessly manage your projects with the leading source code management tool.",
+        "title": "Master Your Code Workflow with Git"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Streamline collaboration, automate version control, and seamlessly manage your projects with the leading source code management tool.",
+        "title": "Master Your Code Workflow with Git"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Streamline collaboration, automate version control, and seamlessly manage your projects with the leading source code management tool.",
+        "title": "Master Your Code Workflow with Git"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Streamline collaboration, automate version control, and seamlessly manage your projects with the leading source code management tool.",
+        "title": "Master Your Code Workflow with Git"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Streamline collaboration, automate version control, and seamlessly manage your projects with the leading source code management tool.",
+        "title": "Master Your Code Workflow with Git"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Streamline collaboration, automate version control, and seamlessly manage your projects with the leading source code management tool.",
+        "title": "Master Your Code Workflow with Git"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Streamline collaboration, automate version control, and seamlessly manage your projects with the leading source code management tool.",
+        "title": "Master Your Code Workflow with Git"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Master Your Code Workflow with Git",
+  "subtitle": "Streamline collaboration, automate version control, and seamlessly manage your projects with the leading source code management tool."
+}
